@@ -28,4 +28,4 @@ Project folder structure:
 
     # Build output:
     build                           # The raw extension contents for each browser
-    dist                            # Distributable extension package for browsers
+    dist                            # Distributable extension package for browsers 
